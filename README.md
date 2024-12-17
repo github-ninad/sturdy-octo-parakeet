@@ -2,7 +2,7 @@ To create and run the project:
 
 1. Create the directory structure:
 ```bash
-mkdir health_claims_system
+git clone to health_claims_system
 cd health_claims_system
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
